@@ -1,0 +1,69 @@
+{
+  "Outdoor Gear": [
+    {
+      "name": "TrailMaster 3000 Hiking Backpack",
+      "price": "£89.99",
+      "capacity": "50L",
+      "features": ["Waterproof", "Ergonomic support", "Built-in hydration sleeve"],
+      "description": "Built for serious hikers, this durable backpack ensures comfort on long treks."
+    },
+    {
+      "name": "EcoLite Camping Lantern",
+      "price": "£24.50",
+      "brightness": "1000 lumens",
+      "power": "USB rechargeable battery (up to 20 hours)",
+      "description": "A lightweight, ultra-bright lantern perfect for campsites, emergency kits, or backyard evenings."
+    },
+    {
+      "name": "SkyNest Ultralight Hammock",
+      "price": "£39.99",
+      "material": "Tear-resistant nylon",
+      "weight_limit": "400 lbs",
+      "description": "Compact and quick to set up, this hammock is great for relaxing on the go."
+    }
+  ],
+  "Tech Gadgets": [
+    {
+      "name": "PocketPal Mini Projector",
+      "price": "£129.00",
+      "resolution": "1080p",
+      "connection": ["HDMI", "Bluetooth"],
+      "description": "Watch movies anywhere with this palm-sized projector. Supports screen mirroring and audio sync."
+    },
+    {
+      "name": "ACME SmartHub Wi-Fi Extender",
+      "price": "£44.99",
+      "coverage": "Up to 2500 sq ft",
+      "features": ["Dual-band boost", "Parental controls", "Guest mode"],
+      "description": "Boosts signal throughout your home with simple plug-in installation."
+    },
+    {
+      "name": "QuantumFit Smartwatch Pro",
+      "price": "£179.95",
+      "features": ["Heart rate", "GPS", "Sleep tracking", "Message notifications"],
+      "description": "Sleek, stylish, and built for performance with 7-day battery life."
+    }
+  ],
+  "Home & Lifestyle": [
+    {
+      "name": "ChillBrew Electric Kettle",
+      "price": "£34.99",
+      "capacity": "1.7L",
+      "features": ["Rapid boil", "Auto shut-off", "LED indicator"],
+      "description": "Sleek stainless steel kettle with quiet boil technology."
+    },
+    {
+      "name": "FreshGrow Indoor Herb Garden Kit",
+      "price": "£59.00",
+      "includes": ["LED grow light", "6 herb pods", "Self-watering reservoir"],
+      "description": "Grow fresh basil, parsley, and more on your kitchen counter—no green thumb needed."
+    },
+    {
+      "name": "ZenMist Essential Oil Diffuser",
+      "price": "£29.95",
+      "capacity": "300ml",
+      "modes": ["Continuous", "Interval mist"],
+      "description": "A quiet, elegant way to add calm and fragrance to your space."
+    }
+  ]
+}
